@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Data Analysis - Cafe Sales](https://github.com/phandeyr/data-analysis/blob/master/cafe-sales/cafe-sales.ipynb)
+[Data Analysis - Cafe Sales](https://www.kaggle.com/code/renukaphandey/cafe-sales)
 
 <img src="images/cafe-sales-revenue-by-item.png?raw=true"/>
 
