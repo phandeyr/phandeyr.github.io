@@ -12,8 +12,8 @@
 <img src="images/movie-detail.png?raw=true"/>
 
 ---
-[Quiz App - React](https://phandeyr.github.io/quiz-react-app/)
+[eCommerce App - React + Stripe](https://ecommerce-react-app-hazel.vercel.app/)
 
-<img src="images/quiz-categories.png?raw=true"/>
-<img src="images/quiz-answer.png?raw=true"/>
-<img src="images/quiz-result.png?raw=true"/>
+<img src="images/products.png?raw=true"/>
+<img src="images/cart.png?raw=true"/>
+<img src="images/stripe-checkout.png?raw=true"/>
